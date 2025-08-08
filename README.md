@@ -2,7 +2,7 @@
 uma ferramenta que visa manter a paz e proporcionar a justiça pelas mãos dos mais fracos.
 # TrincaVolts 3.0 ⚡️
 
-Projeto de pulso eletromagnético com 3 baterias de 9V em série, LEDs indicadores e sistema de refrigeração ativo.
+Projeto de pulso eletromagnético com 3 baterias de 9V em série, LEDs indicadores e sistema de refrigeração ativo,basicamente uma ferramenta que desliga eletrônicos sem pedir licença.
 
 ---
 
@@ -11,8 +11,8 @@ Projeto de pulso eletromagnético com 3 baterias de 9V em série, LEDs indicador
 - 3 baterias de 9V (27V total em série)
 - Transistor MOSFET IRFZ44N (ou similar)
 - LEDs vermelho, verde e azul (com resistores de 220Ω)
-- Dissipador de calor
-- Mini cooler 12V
+- Dissipador de alumínio 
+- Mini cooler 12v
 - Arduino (para controle)
 - Botão disparador
 - Fios, protoboard ou placa de circuito impresso
