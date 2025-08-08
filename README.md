@@ -1,5 +1,5 @@
 # TrincaVolts
-Como criei um objeto bem divertido 
+uma ferramenta que visa manter a paz e proporcionar a justiça pelas mãos dos mais fracos.
 # TrincaVolts 3.0 ⚡️
 
 Projeto de pulso eletromagnético com 3 baterias de 9V em série, LEDs indicadores e sistema de refrigeração ativo.
