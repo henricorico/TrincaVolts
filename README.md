@@ -35,7 +35,7 @@ O código para controle do disparo e LEDs está na pasta `codigo/controle_arduin
 
 ## Ficha Técnica
 
-Confira no arquivo `docs
+Confira no arquivo `docs/ficha_tecnica.md`.
 
 ---
 
