@@ -1,5 +1,14 @@
 TrincaVolts 2.0 ⚡️
 
+
+![Status](https://img.shields.io/badge/Status-Experimental-yellow?style=for-the-badge&logo=zapier)
+![Bateria](https://img.shields.io/badge/Bateria-27V-red?style=for-the-badge&logo=batman)
+![Controle](https://img.shields.io/badge/Controle-Arduino-blue?style=for-the-badge&logo=arduino)
+![LEDs](https://img.shields.io/badge/LEDs-RGB-green?style=for-the-badge&logo=visual-studio-code)
+![Pulso](https://img.shields.io/badge/Pulso-3s-orange?style=for-the-badge&logo=power)
+![Refrigeração](https://img.shields.io/badge/Cooler-Ativo-lightblue?style=for-the-badge&logo=cooling)
+![MOSFET](https://img.shields.io/badge/MOSFET-IRFZ44N-darkblue?style=for-the-badge&logo=electronics)
+
 Descrição:
 O TrincaVolts 2.0 é um dispositivo de pulso eletromagnético portátil que visa desligar eletrônicos próximos de forma controlada, proporcionando uma ferramenta de defesa e justiça tecnológica para quem não possui acesso a recursos avançados. Projetado para ser compacto, seguro e eficiente, o sistema conta com 3 baterias de 9V em série, indicadores visuais e refrigeração ativa.
 
@@ -134,12 +143,12 @@ Recomendações de montagem e manutenção
 
 ---
 
-Sugestões de Evolução (Opcional)
+🥵 o que ainda falta fazer 
 
-Adicionar controle remoto via RF ou Bluetooth.
+-Adicionar controle remoto via RF ou Bluetooth.
 
-Implementar modulação do pulso para diferentes intensidades.
+-Implementar modulação do pulso para diferentes intensidades.
 
-Integrar sensor de proximidade para ativação automática.
+-Integrar sensor de proximidade para ativação automática.
 
-Registrar logs de uso via Arduino para análise de desempenho.
+-Registrar logs de uso via Arduino para análise de desempenho.
