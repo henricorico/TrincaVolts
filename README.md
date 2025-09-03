@@ -64,20 +64,6 @@ Fios e cabos	Diversos	Conexões e prototipagem.
 Protoboard ou PCI	1	Base para montagem do circuito.
 
 
-
----
-
-Esquema Elétrico
-
-O circuito deve ser montado conforme o diagrama abaixo, que indica a ligação das baterias, MOSFET, LEDs, Arduino e cooler.
-
-
-
-> Observação: Certifique-se de respeitar polaridades e conexões de massa comum (GND). O cooler deve ser ligado de forma que resfrie o MOSFET e as baterias durante o pulso.
-
-
-
-
 ---
 
 Código Arduino (Controle de Disparo e LEDs)
@@ -160,3 +146,9 @@ Recomendações de montagem e manutenção
 -Integrar sensor de proximidade para ativação automática.
 
 -Registrar logs de uso via Arduino para análise de desempenho.
+
+⚠️⚠️⚠️
+
+> **“O TrincaVolts 3.0 é a justiça portátil:**  
+> um pulso de energia concentrada, capaz de desligar eletrônicos com precisão.  
+> Um projeto para quem sabe que o poder também pode estar nas mãos dos mais fracos.”
