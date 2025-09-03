@@ -1,4 +1,4 @@
-TrincaVolts 2.0 ⚡️
+TrincaVolts 2.0⚡️(kryptonita do vizinho)
 
 
 ![Status](https://img.shields.io/badge/Status-Experimental-yellow?style=for-the-badge&logo=zapier)
@@ -41,19 +41,17 @@ Botão de disparo: Momentâneo, para controle manual do pulso
 
 Componentes
 
-Componente	Quantidade	Especificação
-
-Bateria 9V	3	Em série (27V total)
-MOSFET IRFZ44N	1	Chaveamento de alta corrente
-Arduino UNO/Nano	1	Para controle do disparo e LEDs
-LED vermelho	1	Com resistor 220Ω
-LED verde	1	Com resistor 220Ω
-LED azul	1	Com resistor 220Ω
-Dissipador de alumínio	1	Para MOSFET
-Mini cooler 12V	1	Para resfriamento ativo
-Botão pulsador	1	Para disparo manual
-Fios e cabos	Diversos	Conexões e prototipagem
-Protoboard ou PCI	1	Base para montagem do circuito
+Bateria 9V	3	Em série (27V total).
+MOSFET IRFZ44N	1	Chaveamento de alta corrente.
+Arduino UNO/Nano	1	Para controle do disparo e LEDs.
+LED vermelho	1	Com resistor 220Ω.
+LED verde	1	Com resistor 220Ω.
+LED azul	1	Com resistor 220Ω.
+Dissipador de alumínio	1	Para MOSFET.
+Mini cooler 12V	1	Para resfriamento ativo.
+Botão pulsador	1	Para disparo manual.
+Fios e cabos	Diversos	Conexões e prototipagem.
+Protoboard ou PCI	1	Base para montagem do circuito.
 
 
 
