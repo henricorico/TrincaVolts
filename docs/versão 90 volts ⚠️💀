@@ -1,0 +1,67 @@
+# TrincaVolts - Versão Rústica (10x9V)
+
+## 1. Informações do Projeto
+- Nome: TrincaVolts
+- Tipo: Pulso Eletromagnético portátil
+- Componentes principais:
+  - 10 baterias de 9V em série/paralelo (conforme necessidade de tensão/corrente)
+  - Estrutura tipo pistola reforçada
+  - Dissipador simples para refrigeração
+
+## 2. Especificações Técnicas
+- Tensão total: 90V (se 10 baterias em série)  
+- Corrente: depende da configuração em paralelo/uso do capacitor  
+- Pulso eletromagnético: curto, mas intenso
+
+### Efeitos do pulso em eletrônicos
+- Pode **danificar permanentemente dispositivos sensíveis**, como celulares, computadores e circuitos microcontrolados  
+- Pode **interromper temporariamente** sinais elétricos em dispositivos sem proteção  
+- Quanto maior a tensão e corrente, **mais intenso e perigoso** o pulso  
+- Componentes de baixa tensão e baixa corrente são os primeiros a sofrer danos
+
+## 3. Observações Técnicas
+- Configuração em série aumenta tensão, mas a corrente máxima continua limitada pela bateria  
+- Configuração em paralelo aumenta corrente disponível, mantendo a tensão constante  
+- O pulso gerado tem efeito **local**, geralmente poucos centímetros de alcance, dependendo do enrolamento e forma do dispositivo  
+- A dissipação de calor é crítica: várias baterias em série/paralelo podem esquentar rapidamente  
+
+## 4. Segurança
+- Usar luvas isolantes e proteção ocular  
+- Nunca aproximar de dispositivos eletrônicos de valor ou pessoas  
+- Testar em ambiente controlado, longe de qualquer circuito que não possa ser danificado  
+- Conferir sempre polaridade das baterias e conexões para evitar curto-circuito  
+
+> ⚠️ Aviso: Este documento é apenas **técnico**. O uso indevido de pulsos eletromagnéticos pode causar danos sérios a equipamentos e pessoas.
+
+
+
+🦧🦧🦧🦧🦧
+
+
+# TrincaVolts - Complemento Prático
+
+## 1. Materiais Recomendados
+- Fios de cobre **2mm² a 4mm²** para ligações principais  
+- Conectores isolados ou solda firme para evitar curto-circuitos  
+- Isolamento extra com fita PVC ou termo retrátil  
+- Dissipador metálico simples ou chapa de alumínio para reduzir calor  
+
+## 2. Calor e Superaquecimento
+- Pulso intenso gera calor local nas baterias e nos fios  
+- Cada bateria de 9V pode esquentar até **50-60°C** se descarregada rápido  
+- Fios finos ou em mau contato podem **superaquecer rapidamente**, causando derretimento ou risco de incêndio  
+- Sempre prever ventilação ou deixar baterias e fios em contato mínimo com materiais inflamáveis  
+
+## 3. Configuração e Efeitos
+- 10 baterias em **série**: tensão total ~90V, corrente limitada pelo próprio conjunto  
+- 10 baterias em **paralelo**: corrente aumentada, tensão igual a 9V  
+- Pulso gera campo eletromagnético intenso próximo do dispositivo, podendo **queimar chips e circuitos**  
+
+## 4. Cuidados ao Ligar
+- Conferir **polaridade das baterias** antes de conectar  
+- Evitar contato direto com o pulso; mantenha distância mínima de **20-30 cm** de qualquer eletrônico ou pessoa  
+- Nunca deixar baterias descarregando rápido sem dissipação adequada  
+- Testar em ambiente controlado, longe de materiais inflamáveis  
+- Tenha sempre à mão **luvas isolantes, óculos de proteção e um plano de desligamento rápido**  
+
+> ⚠️ ATENÇÃO FINAL: Pulso com 10 baterias de 9V é perigoso. Superaquecimento e curtos podem causar **queimaduras, incêndio e danos irreversíveis a equipamentos**. Nunca teste sem proteção e nunca perto de pessoas ou animais.
