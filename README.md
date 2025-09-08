@@ -1,4 +1,4 @@
-#TrincaVolts 2.0⚡️
+# TrincaVolts 2.0⚡️
 
 
 **"I love the smell of napalm in the morning."**
