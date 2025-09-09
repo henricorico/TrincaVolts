@@ -122,21 +122,9 @@ Nunca conecte a baterias de forma incorreta, pois isso pode danificar o circuito
 
 ---
 
-Ficha Técnica
+Manual do Imundo
 
 Arquivo completo disponível em: docs/ficha_tecnica.md
-
-Inclui:
-
-Diagramas detalhados
-
-Valores de resistores e tensões de operação
-
-Curvas de corrente do MOSFET
-
-Recomendações de montagem e manutenção
-
-
 
 ---
 
