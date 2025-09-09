@@ -22,23 +22,13 @@ O TrincaVolts 2.0 é um dispositivo de pulso eletromagnético portátil que visa
 
 ---
 
-Características Técnicas
+Trambolhos 👨🏻‍🏭🛢
 
-Tensão de operação: 27V DC (3x 9V em série)
+Tensão: 27V DC (3x 9V em série)
 
 Transistor chaveador: MOSFET IRFZ44N (ou equivalente, N-channel, 49A, 55V)
 
-Controle: Arduino UNO ou Nano
-
-Indicação visual: LEDs RGB (3 cores) com resistores de 220Ω
-
 Refrigeração ativa: Mini cooler 12V + dissipador de alumínio
-
-Tempo de pulso: 3 segundos (configurável via software)
-
-Botão de disparo: Momentâneo, para controle manual do pulso
-
-
 
 ---
 
@@ -108,17 +98,11 @@ Montagem e Uso
 
 ---
 
-Segurança e Recomendações
+Ninguém é doido ☣
 
 Não use em equipamentos críticos (como computadores com dados importantes, equipamentos médicos ou veículos).
 
 Evite exposição prolongada de baterias e MOSFET a altas correntes sem refrigeração.
-
-Use proteção ocular e luvas durante testes.
-
-Nunca conecte a baterias de forma incorreta, pois isso pode danificar o circuito ou provocar acidentes.
-
-
 
 ---
 
