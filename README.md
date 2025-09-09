@@ -59,24 +59,6 @@ Protoboard ou PCI	1	Base para montagem do circuito.
 
 ---
 
-Código Arduino (Controle de Disparo e LEDs)
-
-O Arduino gerencia:
-
-Disparo do pulso pelo MOSFET
-
-Indicadores visuais via LEDs RGB
-
-Ativação do cooler durante o pulso
-
-
-Código disponível em: codigo/controle_arduino.ino
-
-Sugestão de melhoria: É possível implementar debounce no botão, controle de tempo configurável e desligamento automático de segurança.
-
-
----
-
 Montagem e Uso
 
 1. Montagem do Circuito: Siga o esquema elétrico com atenção. Use protoboard para testes e depois migre para PCI.
