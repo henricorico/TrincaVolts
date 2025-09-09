@@ -1,9 +1,6 @@
 # TrincaVolts 2.0⚡️
 
 
-**"I love the smell of napalm in the morning."**
-
-
 ![Status](https://img.shields.io/badge/Status-Experimental-yellow?style=for-the-badge&logo=zapier)
 ![Bateria](https://img.shields.io/badge/Bateria-27V-red?style=for-the-badge&logo=batman)
 ![Controle](https://img.shields.io/badge/Controle-Arduino-blue?style=for-the-badge&logo=arduino)
