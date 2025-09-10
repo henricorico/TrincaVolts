@@ -1,7 +1,7 @@
 # TrincaVolts 2.0⚡️
 
 
-![Status](https://img.shields.io/badge/Status-Experimental-yellow?style=for-the-badge&logo=zapier)
+![Status](https://img.shields.io/badge/Serial-Experiments-yellow?style=for-the-badge&logo=zapier)
 ![Bateria](https://img.shields.io/badge/Bateria-27V-red?style=for-the-badge&logo=batman)
 ![Controle](https://img.shields.io/badge/Controle-Arduino-blue?style=for-the-badge&logo=arduino)
 ![LEDs](https://img.shields.io/badge/LEDs-RGB-green?style=for-the-badge&logo=visual-studio-code)
