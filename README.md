@@ -52,29 +52,6 @@ Botão pulsador	1	Para disparo manual.
 Fios e cabos	Diversos	Conexões e prototipagem.
 
 Protoboard ou PCI	1	Base para montagem do circuito.
-
-
----
-
-Montagem e Uso
-
-1. Montagem do Circuito: Siga o esquema elétrico com atenção. Use protoboard para testes e depois migre para PCI.
-
-
-2. Upload do Código: Conecte o Arduino via USB e carregue o código.
-
-
-3. Teste de LEDs: Verifique se os LEDs acendem corretamente.
-
-
-4. Ativação do Pulso: Pressione o botão para disparar o pulso de 3 segundos. O cooler ligará automaticamente.
-
-
-5. Resfriamento: Aguarde alguns segundos entre os pulsos para evitar sobreaquecimento do MOSFET.
-
-
-
-
 ---
 
 Ninguém é doido ☣
