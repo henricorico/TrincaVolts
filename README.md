@@ -26,9 +26,7 @@ Tensão: 27V DC (3x 9V em série)
 Transistor chaveador: MOSFET IRFZ44N (ou equivalente, N-channel, 49A, 55V)
 
 Refrigeração ativa: Mini cooler 12V + dissipador de alumínio
-
 ---
-
 Componentes
 
 Bateria 9V	3	Em série (27V total).
